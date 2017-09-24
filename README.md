@@ -2,4 +2,4 @@
 
 > เขียนตามความขยันนะครับ ไม่น่าจะทำได้ครบทุกปาฐกถา
 
-* [**Airbnb - Reimagining the Travel Industry**](airbnb-reimagine-travel-industry.md)
+* [**Airbnb - Reimagining the Travel Industry**](airbnb-reimagine-travel-industry.md) - Robin Kwok
