@@ -1,45 +1,44 @@
 # Airbnb - Reimagining the Travel Industry
 
-- people moving to urban
-- urban life is different
-- millenials are most living generation, and growing
-- most millenials will spend money on "experiences" not "things"
-- that makes "sharing economy" happens
-- born 1995 is generation Z ... also growing
-- millenials use 3 screens... gen Z uses 5 screens (screen = way)
-- they consume media with self research and with education
-- they tend to buy more things online
-- they tend to do things online
-- mobile first is thus important
-- 4.7 B internet users by 2025 ... this is a fast growing figure
-- the trend here is millenials will "share" everything... it starts from cars and homes ... but something is possible
-- they're sharing garderns ! tools ! plants ! pets ! electricity !
-- they is a start up working on pets sharing
+> Video: https://www.youtube.com/watch?v=P9Q7TLjL7Ag
 
-## Travel is changing:
-- asia pacific is the fastest growing region
-- and the driver for this growth is "south-east asia" !
-- and in the sound-east asia "Thailand" is the top driver !, esp. foreigners traveling to Thailand
-- Air passenger is growing really fast ! 2014 it is 3.3 B a year
-- International tourists are at 1.1 B at 2014
-- 10% of world's GDP is tourism
-- big part of south east asia GDP is tourism
-- 20% of Thailand's GDP is tourism
-- this is much contributed by Chinese travelers
-- Chinese travelers want to experience like "locals"
-- travel is being "democratized"
+- ผู้คนย้ายเข้าไปอยู่ในเมืองมากขึ้นเรื่อย ๆ 
+- กลุ่มคนยุค Millenial เป็นกลุ่มที่มีประชากรเยอะเป็นอันดับต้น ๆ ตอนนี้ และก็เพิ่มมากขึ้นเรื่อย ๆ
+- กลุ่มคนเหล่านี้ เลือกที่จะจับจ่ายใช้เงินไปกับ "ประสบกาณ์" มากกว่า "สิ่งของ" ที่จับต้องได้
+- นี่เป็นเหตุผลหนึ่งที่ทำให้ "sharing economy" เกิดขึ้น
+- กลุ่มคนยุค generation Z หรือเกิดตั้งแต่ปี 1995 เป็นต้นไป ก็เป็นยุคที่เติบโตรวดเร็ว และก็มีประชากรจำนวนมากเช่นกัน
+- คนยุค Mellenial จะมีจอราว ๆ 3 จอ แต่กลุ่ม Generation Z ยิ่งมีมากกว่านั้นราว ๆ 5 จอ นั่นแปลว่า "ช่องทาง" ในการเสพสื่อพวกเขาก็ตามจำนวนจอเหล่านั้นด้วย
+- พวกเขาเสพข่าว พร้อมกับศึกษาหาความรู้ด้วยตัวเองไปด้วย (และพวกเขาก็เป็นคนที่มีการศึกษา)
+- พวกเข้าซื้อของออนไลน์มากขึ้น
+- และก็ทำสิ่งต่าง ๆ ออนไลน์มากขึ้น เช่น เรียนคอร์สออนไลน์
+- การทำแอพพลิเคชันตอบสนองวิถีชีวิตของคนกลุ่มนี้จึงสำคัญ และการออกแบบให้รองรับมือถือก็เป็นเรื่องสำคัญ
+- ประชากร Internet โลก เติบโตอย่างรวดเร็ว คาดการณ์ว่าในปี 2025 ประชากร จะแตะ 4.7 พันล้านคน
+- คนยุคใหม่ ๆ มีแนวโน้มที่จะ "แชร์" หลาย ๆ อย่าง (มากกว่าที่อยู่อาศัย และรถยนต์) 
+- เช่น การแชร์ สวน เครื่องมือ ต้นไม้ สัตว์เลี้ยง หรือ ไฟฟ้า 
+- หลาย ๆ บริษัท Start up ก็กำลังหาประโยชน์จากความต้องการเหล่านี้
 
-## Our economy is changing:
-- new generations enjoy freelancing
-- more and more start ups depend on sharing economy
-- sharing home is not really new ... but Airbnb just made it more accessible
-- sharing home is more than an accommodation ... it is more like experience with local people, local foods and so on ... it is not provided by any hotel
-- sharing economy is expected to be 335 B at 2025 (~30 times from 2015)
-- older generations starting to adopt sharing economy
-- older generations like to "welcome" people .. they kinda proud of their ceties
-- actually, AirBnb generates a lot of money for these retired people
-- many older people are not easy to travel ... but sharing homes is bringing travels to them without leaving their homes
-- AirBnb brings tourists to rural areas
-- AirBnb takes only 3% fee
+## การท่องเที่ยวกำลังจะเปลี่ยนไป
+- สำหรับ AirBnB ภูมิภาค asia pacific เป็นภูมิภาคที่เติบโตเร็วที่สุดตอนนี้
+- และในภูมิภาคนี้ เอเชียตะวันออกเฉียงใต้ ก็เป็นส่วนที่เติบโตเร็วที่สุด
+- และหลัก ๆ ในนั้นก็คือ ประเทศไทย 
+- ตอนนี้ประชากรที่ใช้การขนส่งทางอากาศถึง 3.3 พันล้านคน (ในปี 2014)
+- จำนวนนักท่องเที่ยวต่างชาติก็ราว ๆ 1.1 พันล้านคน (ในปี 2014)
+- 10% ของ GDP โลกคือการท่องเที่ยว
+- การท่องเที่ยวก็เป็นส่วนใหญ่ ๆ ใน GDP ของภูมิภาคเอเชียตะวันออกเฉียงใต้เช่นกัน
+- โดยเฉพาะในประเทศไทย 20% ของ GDP คือการท่องเที่ยว
+- เหตุผลหลัก ๆ ก็มาจากการเติบโตของนักท่องเที่ยวจีน
+- นักท่องเที่ยวจีนเหล่านี้ต้องการเที่ยวแบบคนแถวนั้นจริง ๆ ต้องการสัมผัสประสบการณ์แบบพื้นเมือง ได้กินของพื้นเมือง
+- โดยรวมแล้วการท่องเที่ยวกำลังถูก "กระจายมือ" ออกไป ไม่ได้ถูกผูกขาดโดยรายใหญ่ ๆ อีกต่อไป (democratized)
 
-https://www.youtube.com/watch?v=P9Q7TLjL7Ag
+## ระบบเศรษฐกิจเรากำลังเปลี่ยนไป
+- คนยุคใหม่ชอบการทำอาชีพอิสระมากขึ้น หลาย ๆ คนสามารถเลี้ยงตัวเองได้จากอาชีพอิสระ (ดีไม่ดีได้เงินเยอะกว่าด้วย)
+- เนื่องจาก sharing economy กำลังเติบโต start ups จำนวนมากก็ทำธุรกิจในนี้
+- จริง ๆ แล้วการแชร์บ้าน (แบบ AirBnB) ไม่ใช่เรื่องใหม่ (จริง ๆ ก็ทำ ๆ กันมานานแล้ว) แต่ว่า AirBnB ทำให้การแชร์บ้าน "เข้าถึง" ได้ง่ายขึ้น
+- การแชร์ที่อยู่อาศัย (แบบ AirBnB) ไม่ได้เหมือนกับการไปนอนโรงแรมซะทีเดียว เพราะเรามีโอกาสได้คุยกับคนท้องถิ่น ได้พบประสบการณ์ใหม่ ๆ อย่างเช่น โฮส อาจจะทำกับข้าวท้องถิ่น หรือ แนะนำร้านอาหารท้องถิ่น กิจกรรมของคนท้องถิ่น .. สิ่งเหล่านี้หาไม่ได้จากโรงแรม และเป็นที่ต้องการของนักท่องเที่ยวยุคใหม่ ๆ 
+- sharing economy โตเร็วมาก ๆ และก็มีแนวโน้มจะโตถึง 335 พันล้าน USD ในปี 2025 (โตกว่า 30 เท่าจากปี 2015)
+- ไม่ใช่แค่คนยุคใหม่อย่างเดียว คนยุคเก่า ๆ อย่างคนที่เกษียณแล้วก็เริ่มที่จะ แชร์ที่พักอาศัยเช่นกัน
+- คนยุคเก่า ๆ นี้ ชอบที่จะต้อนรับแขกบ้านแขกเมือง ภูมิใจที่ได้นำเสนอเมืองของเขากับคนต่างชาติ
+- และก็การแชร์ที่พักอาศัยก็สร้างรายได้จำนวนมากให้กับคนเหล่านนี้ (มากกว่ารายได้จากประกันสังคมหลังเกษียณ ในต่างประเทศ)
+- คนแก่หลาย ๆ คนไม่สะดวกในการเดินทางไปต่างประเทศ การเปิดบ้านให้คนต่างชาติแบบนี้ก็เหมือนเอาต่างประเทศมาหาตัวเอง
+- AirBnB ยังช่วยกระจายนักท่องเที่ยวไปยังพื้นที่ห่างไกล ๆ ด้วย ไม่ใช่กระจุกตัวอยู่แต่สถานที่ท่องเที่ยวสำคัญ ๆ เท่านั้น
+- และ AirBnB คิดค่านายหน้าเพียง 3% นั่นคือ 97% ก็จะเข้ากระเป๋าของเจ้าบ้าน
