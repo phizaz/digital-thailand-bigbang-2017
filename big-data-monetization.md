@@ -1,4 +1,4 @@
-# Big Data Monetization (การทำธุรกิจจาก Big Data)
+# Big Data Monetization (การสร้างผลประโยชน์ทางธุรกิจจาก Big Data)
 
 โดย Dr. Michael Gryseels - Senior Partner and Regional Leader Mckinsey Digtal Asia Pacific, McKinsey & Company
 
