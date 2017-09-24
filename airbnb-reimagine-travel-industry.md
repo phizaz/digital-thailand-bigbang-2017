@@ -1,5 +1,7 @@
 # Airbnb - Reimagining the Travel Industry
 
+โดย Robin Kwok - Country Manager, Airbnb Southeast Asia, Hong Kong and Taiwan
+
 > Video: https://www.youtube.com/watch?v=P9Q7TLjL7Ag
 
 - ผู้คนย้ายเข้าไปอยู่ในเมืองมากขึ้นเรื่อย ๆ 
